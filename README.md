@@ -12,4 +12,6 @@
 24. Найти номер последнего столбца, все элементы которого упорядочены по
 убыванию.
 
++ Защита(main-2.c)
+
 This project is licensed under the MIT License. See the LICENSE file for details.
