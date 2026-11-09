@@ -15,7 +15,6 @@
 24. Найти номер последнего столбца, все элементы которого упорядочены по
 убыванию.
 */
-/*
 #include <stdio.h>
 #include <locale.h>
 #include <malloc.h>
@@ -103,4 +102,3 @@ int main()
     free(A);
     return 0;
 }
-*/
